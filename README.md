@@ -8,6 +8,8 @@ Javier, Juez,
 
 Gala, Botija, galaabotija
 
+Daniel Mayas
+
 ## Objetivos del trabajo
 
 Desarrollar un programa que acumule y muestre los datos de ph, etc de varias fuentes de Madrid. 
